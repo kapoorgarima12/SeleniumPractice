@@ -8,6 +8,7 @@ import org.testng.annotations.Test;
 public class TestCase1 {
 
 	// to check git 
+	// checking edit in branch 
 	@Test
 	public void test1()
 	{
